@@ -28,10 +28,6 @@ Tengo 8 años dedicándome con mucho entusiasmo al diseño en  sus diferentes á
 * 🖥️ HTML, CSS
 * ✨Diseño UI 
 
-- 🔭 Estoy trabajando en My propia compañia 
-- 🌱 Estoy aprendiendo Javascript 
-- 📫 Cómo contactarme: octavio.durandelasierra@gmail.com 
-
   ##
  
 <div> 
