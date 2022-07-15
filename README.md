@@ -1,4 +1,5 @@
-![Diseñador gráfico y Web](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!--![Diseñador gráfico y Web](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+  -->
 
 ### Hola 👋, soy Octavio Duran
 #### Diseñador gráfico y Web
