@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <h1 align="center">Hola 👋  soy OctavioDosoo ✨ </h1> 
-#### Diseñador gráfico y Web
-
+<h2>Diseñador gráfico y Web</h2>
+<br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -14,6 +14,7 @@
 <br>
 
 <h2>Sobre mi 😃</h2>
+<br>
 <!--Intro start-->
 
 <p align="left">
@@ -37,18 +38,19 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,bootstrap.codepen,ai,ps,ae,pr,figma,mysql,firebase,git,github,vscode,linux,windows,discord,gmail,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,bootstrap,codepen,ai,ps,ae,pr,figma,mysql,firebase,git,github,vscode,linux,windows,discord,gmail,&perline=12" />
   </a>
 </p>
 <br>
 <!-------------------------->
 
-### Habilidades y Experiencia:
+<h2> Habilidades y Experiencia: </h2>
 
 - 🖌️ Diseño Gráfico
 - ▶️ Motion Graphics
 - 🖥️ HTML, CSS
 - ✨Diseño UI
+  <br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
@@ -70,12 +72,14 @@
   </td>
 </tr>
 </table>
+<br><br>
 <!--- stats (end) -->
 
 <!--- Proyectos --->
 
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
+<br>
 
 <table align="left" >
 <tr border="none">
