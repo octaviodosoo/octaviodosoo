@@ -1,54 +1,134 @@
-<!--![Diseñador gráfico y Web](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-  -->
-
-### Hola 👋, soy Octavio Duran
+<!--h1 without bottom border-->
+<h1 align="center">Hola 👋  soy OctavioDosoo ✨ </h1> 
 #### Diseñador gráfico y Web
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Tengo 8 años dedicándome con mucho entusiasmo al diseño en  sus diferentes áreas de especialidad y en mi tiempo libre disfruto de aprender formas de llevar esa experiencia a mis proyectos virtuales, espero disfrutes y te resulten útiles mis repositorios.
+<p align="left">
+  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
 
-<div> 
-  <a href="https://1drv.ms/b/s!AjeR1nzE-vTYiW8FoB3qzlRBYn_P?e=FOQCjT" target="_blank"><img src="https://img.shields.io/badge/Curriculum-E61867?style=for-the-badge&logo=files&logoColor=white" target="_blank"></a>
-  <a href="hhttps://1drv.ms/b/s!AjeR1nzE-vTYiXBoL2UPJUE58KOJ?e=joreLm" target="_blank"><img src="https://img.shields.io/badge/Portafolio-592583?style=for-the-badge&logo=files&logoColor=white" target="_blank"></a>
- 
-</div></br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-<div align="left">
-  <a href="https://github.com/octaviodosoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=octaviodoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+🎓 Diseñador Gráfico con enfoque en proyectos digitales y web
 
-<div style="display: inline_block"><br>
-  <!-- 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  -->
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  -->
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88255439/179184759-2a514e28-2851-4ece-8465-bb66f05d8b64.jpg">
+🎥 Creador de contenido en TikTok y otras plataformas, donde comparto procesos creativos, aprendizajes y experiencias relacionadas con diseño, tecnología y desarrollo frontend
+
+💻 Más de 12 años de experiencia en diseño gráfico, explorando constantemente nuevas herramientas y flujos de trabajo para entornos digitales
+
+🧠 Intereses actuales: frontend, diseño para web, Bootstrap, HTML, CSS y buenas prácticas de maquetación
+
+📂 Este repositorio forma parte de mi proceso de aprendizaje y experimentación
+
+📫 Contacto: **octaviodosooficial@gmail.com**
+
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías que conozco👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,bootstrap.codepen,ai,ps,ae,pr,figma,mysql,firebase,git,github,vscode,linux,windows,discord,gmail,&perline=12" />
   </a>
-</div>
+</p>
+<br>
+<!-------------------------->
 
 ### Habilidades y Experiencia:
-* 🖌️ Diseño Gráfico
-* ▶️ Motion Graphics
-* 🖥️ HTML, CSS
-* ✨Diseño UI 
 
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/c/octaviodoso" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/octaviocreativo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:octavio.durandelasierra1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/octavioduran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- 🖌️ Diseño Gráfico
+- ▶️ Motion Graphics
+- 🖥️ HTML, CSS
+- ✨Diseño UI
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- Proyectos --->
+
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+<!--- fin proyectos--->
