@@ -1,6 +1,6 @@
 <!--h1 without bottom border-->
 <h1 align="center">Hola 👋  soy OctavioDosoo ✨ </h1> 
-<h2 align="center">Diseñador gráfico y Web</h2>
+<h3 align="center">Diseñador gráfico y Web</h3>
 <br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,bootstrap,codepen,ai,ps,ae,pr,figma,mysql,firebase,git,github,vscode,linux,windows,discord,gmail,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ai,ps,ae,pr,figma,git,github,vscode,codepen,mysql,firebase,wordpress,linux,windows,discord,gmail,&perline=12" />
   </a>
 </p>
 <br>
@@ -46,10 +46,10 @@
 
 <h2> Habilidades y Experiencia: </h2>
 
-- 🖌️ Diseño Gráfico
-- ▶️ Motion Graphics
-- 🖥️ HTML, CSS
-- ✨Diseño UI
+- 🖌️ Diseño Gráfico y Comunicación Visual
+- ▶️ Motion Graphics y contenido audiovisual
+- 🖥️ Maquetación web (HTML, CSS)
+- ✨ Diseño UI para proyectos digitales
   <br><br>
 
 <!--- COMENTADO HASTA CORREGIR
