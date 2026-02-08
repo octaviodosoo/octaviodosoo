@@ -1,15 +1,15 @@
 <!--h1 without bottom border-->
 <h1 align="center">Hola 👋  soy OctavioDosoo ✨ </h1> 
-<h2>Diseñador gráfico y Web</h2>
+<h2 align="center">Diseñador gráfico y Web</h2>
 <br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.youtube.com/@octaviodosoo" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@octaviodosoo" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://www.linkedin.com/in/octavioduran/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:octavio.durandelasierra1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 
@@ -28,7 +28,7 @@
 
 📂 Este repositorio forma parte de mi proceso de aprendizaje y experimentación
 
-📫 Contacto: **octaviodosooficial@gmail.com**
+📫 Contacto: **octavio.durandelasierra1@gmail.com**
 
 <!--Intro end-->
   </p>
@@ -52,17 +52,20 @@
 - ✨Diseño UI
   <br><br>
 
+<!--- COMENTADO HASTA CORREGIR
+
+
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start)
 <p align="center">
-  <!--- stats (start) -->
+  <!--- stats (start)
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
 </td>
 
 <td width="40%" align="center">
@@ -73,7 +76,9 @@
 </tr>
 </table>
 <br><br>
-<!--- stats (end) -->
+<!--- stats (end)
+
+--->
 
 <!--- Proyectos --->
 
